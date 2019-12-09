@@ -1,6 +1,8 @@
 ## Espruino fraemwork test for the nrf52382 board
 ### use JS of TypeScript in embedded system
 
+Fast UX test for the device.
+
 link https://www.espruino.com/Quick+Start+BLE#nrf52832dk
 link https://www.espruino.com/nRF52832DK#getting-started
 
